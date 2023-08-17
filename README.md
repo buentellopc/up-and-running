@@ -1,6 +1,9 @@
 
 Repositorio para poner proyectos del libro Spring Boot Up and Running
 
+Prerequisito
+    -Es importante tener el servicio de PlaneFinder ejecutandose, se encuentra en el repositorio del libro
+
 Chapter 1-5
     Proyecto inicial donde se tocan las partes mas importantes de Spring Boot
     -Autoconfiguration
