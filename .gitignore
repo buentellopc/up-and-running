@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Ignora contenido de directorios a montar
+containerscripts-database/data/*
